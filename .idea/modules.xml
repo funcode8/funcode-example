@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter3-helloworld-main/chapter3-helloworld-main.iml" filepath="$PROJECT_DIR$/chapter3-helloworld-main/chapter3-helloworld-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3-helloworld-spring-boot-starter/chapter3-helloworld-spring-boot-starter.iml" filepath="$PROJECT_DIR$/chapter3-helloworld-spring-boot-starter/chapter3-helloworld-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4-spring-aop-example/chapter4-spring-aop-example.iml" filepath="$PROJECT_DIR$/chapter4-spring-aop-example/chapter4-spring-aop-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5-aop-annotation-example/chapter5-aop-annotation-example.iml" filepath="$PROJECT_DIR$/chapter5-aop-annotation-example/chapter5-aop-annotation-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-validation-example/chapter6-validation-example.iml" filepath="$PROJECT_DIR$/chapter6-validation-example/chapter6-validation-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7-interface-encrypt-example/chapter7-interface-encrypt-example.iml" filepath="$PROJECT_DIR$/chapter7-interface-encrypt-example/chapter7-interface-encrypt-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/funcode-example.iml" filepath="$PROJECT_DIR$/.idea/funcode-example.iml" />
+    </modules>
+  </component>
+</project>

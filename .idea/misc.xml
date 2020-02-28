@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chapter3-helloworld-main/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3-helloworld-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-spring-aop-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5-aop-annotation-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6-validation-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7-interface-encrypt-example/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
