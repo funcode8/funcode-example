@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chapter10-scheduling-job-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11-logging-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter12-sharding-jdbc-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter13-writereadsprilt-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter3-helloworld-main/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter3-helloworld-main/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter4-spring-aop-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter5-aop-annotation-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter6-validation-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter7-interface-encrypt-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8-redis-transaction-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java" charset="UTF-8" />
   </component>
 </project>

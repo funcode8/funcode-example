@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appender name="mysql" class="ch.qos.logback.classic.db.DBAppender">
+        <!--数据库配置信息-->
+        <connectionSource class="ch.qos.logback.core.db.DriverManagerConnectionSource">
+            <driverClass>com.mysql.jdbc.Driver</driverClass>
+            <url>jdbc:mysql://localhost:3306/logging?useUnicode=true&amp;characterEncoding=utf-8&amp;serverTimezone=UTC&amp;verifyServerCertificate=false&amp;useSSL=false</url>
+            <user>root</user>
+            <password>123456</password>
+        </connectionSource>
+    </appender>
+
+    <!-- name值可以是包名或具体的类名，表示该包（包括子包）下的类或该类将采用此logger -->
+    <logger name="com.funcode.example.chapter11" level="error" additivity="false">
+        <appender-ref ref="mysql" />
+    </logger>
+
+</configuration>
+

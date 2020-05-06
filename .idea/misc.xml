@@ -12,7 +12,22 @@
         <option value="$PROJECT_DIR$/chapter5-aop-annotation-example/pom.xml" />
         <option value="$PROJECT_DIR$/chapter6-validation-example/pom.xml" />
         <option value="$PROJECT_DIR$/chapter7-interface-encrypt-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8-redis-transaction-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-scheduling-job-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11-logging-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter12-sharding-jdbc-example/pom.xml" />
+        <option value="$PROJECT_DIR$/../code/incubator-shardingsphere-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../code/incubator-shardingsphere-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13-writereadsprilt-example/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../code/incubator-shardingsphere-example/example-core/pom.xml" />
+        <option value="$PROJECT_DIR$/../code/incubator-shardingsphere-example/sharding-jdbc-example/pom.xml" />
+        <option value="$PROJECT_DIR$/../code/incubator-shardingsphere-example/sharding-proxy-example/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />

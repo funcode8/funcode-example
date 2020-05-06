@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.funcode.example.chapter9.mapper.first.User1Mapper" >
+
+  <resultMap id="BaseResultMap" type="com.funcode.example.chapter9.model.first.User1" >
+    <id column="id" property="id" jdbcType="BIGINT" />
+    <result column="nick_name" property="nickName" jdbcType="VARCHAR" />
+    <result column="age" property="age" jdbcType="INTEGER" />
+  </resultMap>
+
+  <sql id="Base_Column_List" >
+    id, nick_name, age
+  </sql>
+
+
+  <insert id="insert">
+    insert into user1
+    (
+       nick_name, age
+    )
+    values
+      (#{nickName,jdbcType=VARCHAR}, #{age,jdbcType=INTEGER})
+  </insert>
+
+</mapper>
