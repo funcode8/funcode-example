@@ -2,61 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffc53f3a-2a59-4164-9b57-1d30365e7f2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter10-scheduling-job-example/src/main/java/com/funcode/example/chapter10/configuration/ExecutorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10-scheduling-job-example/src/main/java/com/funcode/example/chapter10/configuration/GracefulShutdownTomcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10-scheduling-job-example/src/main/java/com/funcode/example/chapter10/configuration/ScheduledTaskConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10-scheduling-job-example/src/main/java/com/funcode/example/chapter10/configuration/ShutdownConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10-scheduling-job-example/src/main/java/com/funcode/example/chapter10/configuration/ShutdownConfig2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10-scheduling-job-example/src/main/java/com/funcode/example/chapter10/configuration/ShutdownListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10-scheduling-job-example/src/main/java/com/funcode/example/chapter10/job/FirstJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10-scheduling-job-example/src/main/java/com/funcode/example/chapter10/job/SecondJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11-logging-example/src/main/java/com/funcode/example/chapter11/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11-logging-example/src/main/java/com/funcode/example/chapter11/controller/MyDBAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11-logging-example/src/main/resources/2logback-spring.xml.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11-logging-example/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11-logging-example/src/test/java/com/funcode/example/chapter11/test/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12-sharding-jdbc-example/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/src/main/java/com/funcode/example/chapter13/configuration/DataSourceAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/src/main/java/com/funcode/example/chapter13/configuration/DataSourceContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/src/main/java/com/funcode/example/chapter13/configuration/DataSourceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/src/main/java/com/funcode/example/chapter13/configuration/DatasourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/src/main/java/com/funcode/example/chapter13/configuration/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/src/main/java/com/funcode/example/chapter13/configuration/RoutingDataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/src/main/java/com/funcode/example/chapter13/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/src/main/java/com/funcode/example/chapter13/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/src/test/java/com/funcode/example/chapter13/test/BatchInsertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8-redis-transaction-example/src/main/java/com/funcode/example/chapter8/conroller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8-redis-transaction-example/src/main/java/com/funcode/example/chapter8/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8-redis-transaction-example/src/main/java/com/funcode/example/chapter8/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8-redis-transaction-example/src/main/java/com/funcode/example/chapter8/redis/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8-redis-transaction-example/src/main/java/com/funcode/example/chapter8/service/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8-redis-transaction-example/src/main/java/com/funcode/example/chapter8/service/HelloServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8-redis-transaction-example/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/configuration/DatasourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/configuration/JdbcTemplateConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/configuration/Mybatis2Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/configuration/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/job/FirstJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/job/SecondJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/mapper/first/User1Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/mapper/second/User2Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/model/first/User1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/model/second/User2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/java/com/funcode/example/chapter9/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/resources/mapper/first/User1Mapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/main/resources/mapper/second/User2Mapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/test/java/com/funcode/example/chapter9/test/BatchInsertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/test/java/com/funcode/example/chapter9/test/JdbcBatchInsertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/test/java/com/funcode/example/chapter9/test/JdbcTemplateBatchInsertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/test/java/com/funcode/example/chapter9/test/JdbcTemplateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/test/java/com/funcode/example/chapter9/test/Mybatis2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/test/java/com/funcode/example/chapter9/test/MybatisBatchInsertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/test/java/com/funcode/example/chapter9/test/MybatisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9-mybatis-muti-insert-example/src/test/java/com/funcode/example/chapter9/test/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13-writereadsprilt-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter13-writereadsprilt-example/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
