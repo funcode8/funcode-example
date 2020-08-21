@@ -6,6 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/chapter11-logging-example/chapter11-logging-example.iml" filepath="$PROJECT_DIR$/chapter11-logging-example/chapter11-logging-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter12-sharding-jdbc-example/chapter12-sharding-jdbc-example.iml" filepath="$PROJECT_DIR$/chapter12-sharding-jdbc-example/chapter12-sharding-jdbc-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter13-writereadsprilt-example/chapter13-writereadsprilt-example.iml" filepath="$PROJECT_DIR$/chapter13-writereadsprilt-example/chapter13-writereadsprilt-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14-websocket-example/chapter14-websocket-example.iml" filepath="$PROJECT_DIR$/chapter14-websocket-example/chapter14-websocket-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15-atomikos-demo/chapter15-atomikos-demo.iml" filepath="$PROJECT_DIR$/chapter15-atomikos-demo/chapter15-atomikos-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16-zookeeper-lock-demo/chapter16-zookeeper-lock-demo.iml" filepath="$PROJECT_DIR$/chapter16-zookeeper-lock-demo/chapter16-zookeeper-lock-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17-zookeeper-lock-demo2/chapter17-zookeeper-lock-demo2.iml" filepath="$PROJECT_DIR$/chapter17-zookeeper-lock-demo2/chapter17-zookeeper-lock-demo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3-helloworld-main/chapter3-helloworld-main.iml" filepath="$PROJECT_DIR$/chapter3-helloworld-main/chapter3-helloworld-main.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3-helloworld-spring-boot-starter/chapter3-helloworld-spring-boot-starter.iml" filepath="$PROJECT_DIR$/chapter3-helloworld-spring-boot-starter/chapter3-helloworld-spring-boot-starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4-spring-aop-example/chapter4-spring-aop-example.iml" filepath="$PROJECT_DIR$/chapter4-spring-aop-example/chapter4-spring-aop-example.iml" />

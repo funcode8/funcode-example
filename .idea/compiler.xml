@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="example-api" />
+        <module name="chapter15-atomikos-demo" />
+        <module name="chapter17-zookeeper-lock-demo2" />
         <module name="example-spring-mybatis" />
         <module name="encrypt-spring-boot-example" />
         <module name="orchestration-spring-boot-example" />
@@ -16,29 +18,31 @@
         <module name="sharding-spring-boot-jpa-example" />
         <module name="sharding-spring-namespace-mybatis-example" />
         <module name="transaction-base-seata-raw-jdbc-example" />
+        <module name="chapter16-zookeeper-lock-demo" />
         <module name="encrypt-spring-namespace-example" />
         <module name="hint-raw-jdbc-example" />
+        <module name="chapter14-websocket-example" />
         <module name="chapter3-helloworld-spring-boot-starter" />
         <module name="sharding-raw-jdbc-example" />
+        <module name="chapter9-mybatis-muti-insert-example" />
         <module name="transaction-2pc-xa-raw-jdbc-example" />
         <module name="chapter8-redis-transaction-example" />
-        <module name="config-utility" />
+        <module name="sharding-proxy-boot-mybatis-example" />
         <module name="sharding-spring-boot-mybatis-example" />
-        <module name="example-raw-jdbc" />
         <module name="chapter3-helloworld-main" />
         <module name="encrypt-raw-jdbc-example" />
         <module name="sharding-spring-namespace-jpa-example" />
         <module name="chapter12-sharding-jdbc-example" />
         <module name="chapter4-spring-aop-example" />
         <module name="chapter10-scheduling-job-example" />
-        <module name="chapter9-mybatis-muti-insert-example" />
+        <module name="example-raw-jdbc" />
         <module name="chapter7-interface-encrypt-example" />
         <module name="chapter13-writereadsprilt-example" />
         <module name="chapter11-logging-example" />
         <module name="chapter6-validation-example" />
         <module name="example-spring-jpa" />
         <module name="orchestration-raw-jdbc-example" />
-        <module name="sharding-proxy-boot-mybatis-example" />
+        <module name="config-utility" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -46,6 +50,10 @@
       <module name="chapter11-logging-example" target="1.8" />
       <module name="chapter12-sharding-jdbc-example" target="1.8" />
       <module name="chapter13-writereadsprilt-example" target="1.8" />
+      <module name="chapter14-websocket-example" target="1.8" />
+      <module name="chapter15-atomikos-demo" target="1.8" />
+      <module name="chapter16-zookeeper-lock-demo" target="1.8" />
+      <module name="chapter17-zookeeper-lock-demo2" target="1.8" />
       <module name="chapter3-helloworld-main" target="1.8" />
       <module name="chapter3-helloworld-spring-boot-starter" target="1.5" />
       <module name="chapter4-spring-aop-example" target="1.8" />
@@ -93,6 +101,10 @@
       <module name="chapter11-logging-example" options="-parameters" />
       <module name="chapter12-sharding-jdbc-example" options="-parameters" />
       <module name="chapter13-writereadsprilt-example" options="-parameters" />
+      <module name="chapter14-websocket-example" options="-parameters" />
+      <module name="chapter15-atomikos-demo" options="-parameters" />
+      <module name="chapter16-zookeeper-lock-demo" options="-parameters" />
+      <module name="chapter17-zookeeper-lock-demo2" options="-parameters" />
       <module name="chapter3-helloworld-main" options="-parameters" />
       <module name="chapter4-spring-aop-example" options="-parameters" />
       <module name="chapter5-aop-annotation-example" options="-parameters" />

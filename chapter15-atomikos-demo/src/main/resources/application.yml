@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    #使用druid连接池
+    druid:
+      #数据源1的名称
+      order:
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/order?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=UTC
+        username: root
+        password: 123456
+      #数据源2的名称
+      user:
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/user?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=UTC
+        username: root
+        password: 123456

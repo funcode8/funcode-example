@@ -20,6 +20,10 @@
         <option value="$PROJECT_DIR$/../code/incubator-shardingsphere-master/pom.xml" />
         <option value="$PROJECT_DIR$/../code/incubator-shardingsphere-example/pom.xml" />
         <option value="$PROJECT_DIR$/chapter13-writereadsprilt-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter14-websocket-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15-atomikos-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter16-zookeeper-lock-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter17-zookeeper-lock-demo2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
